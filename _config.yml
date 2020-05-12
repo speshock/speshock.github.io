@@ -68,10 +68,6 @@ roles:
 #Education is required
 education:
  - level: Masters
-   date: 2021
-   subject: Business Administration
-   school: Virginia Tech
- - level: Masters
    date: 2020
    subject: Information Technology
    school: Virginia Tech

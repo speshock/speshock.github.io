@@ -75,7 +75,7 @@ education:
 #Fun Experiences are optional
 experiences:
  - title: Disneyland Hong Kong Marvel Character Performer
-   link: {% include youtubePlayer.html id="e-c959ruUAg" %}
+   {% include youtubePlayer.html id="e-c959ruUAg" %}
 
 #This section is optional (as is the image link below)
 # coursera:

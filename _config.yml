@@ -72,8 +72,13 @@ education:
    subject: Information Technology
    school: Virginia Tech
 
+#Fun Experiences are optional
+experiences:
+ - title: Disneyland Hong Kong Marvel Character Performer
+   link: {% include youtubePlayer.html id="e-c959ruUAg" %}
+
 #This section is optional (as is the image link below)
-coursera:
+#coursera:
  #  profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
   # courses:
    # - title: Functional Programming Principles in Scala

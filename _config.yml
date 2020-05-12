@@ -77,7 +77,9 @@ education:
    school: Virginia Tech
 
 #This section is optional (as is the image link below)
-#coursera:
+fun experiences:
+ - title: Marvel character performing
+   link: <iframe width="560" height="315" src="https://www.youtube.com/embed/e-c959ruUAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
  #  profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
   # courses:
    # - title: Functional Programming Principles in Scala

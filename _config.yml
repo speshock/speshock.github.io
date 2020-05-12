@@ -73,8 +73,8 @@ education:
    school: Virginia Tech
 
 #Fun Experiences are optional
-experiences:
- - title: Disneyland Hong Kong Marvel Character Performer
+experiences: |
+   <strong>Disney</strong>:Disneyland Hong Kong Marvel Character Performer
    
 
 #This section is optional (as is the image link below)

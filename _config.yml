@@ -43,33 +43,33 @@ skills:
 
 #Work experience is required
 roles:
- - title: Graduate Assistant
-   start: 2018
-   end: Ongoing
-   employer: Virginia Tech
-   description: Assist both the MBA and IT programs in a dual role. Created a functional relational database for the MIT program to track student progress for reporting  metrics used by US News & World Report.  Created Python data funneling scripts to automate adding data to the database. Use Tableau to create data visualizations and analytics.
- - title: Marvel Character Performer
+ - title: CTO
    start: 2017
-   end: 2017
-   employer: Hong Kong Disneyland
-   description: Opening team for the Marvel Super Hero Summer Event. Portrayed Thor and Star-Lord in the interactive walkthrough attraction, Dimensions of Danger. Portrayed Captain America for guest meet and greets.
- - title: Outdoor Adventure Specialist
+   end: Ongoing
+   employer: Basement Crowd
+   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+ - title: Senior Engineer
    start: 2016
    end: 2017
-   employer: Inner Quest
-   description: Inner Quest is an outdoor experiential educational organization. <br/> I was responsible for facilitating groups on adventure trips and throughout daily challenge course programs. Maintained organized safety procedures and responsible for group itinerary. Broad customer service/people skills required.  
- - title: Youth Activities Staff
-   start: 2014
-   end: 2015
-   employer: Royal Caribbean
-   description: Managed activities on a daily basis for 20-100 people at a time. Worked 7 days a week for two 5 month contracts. Traveled the world.
+   employer: Emerald Street Ventures
+   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+ - title: Senior Engineer
+   start: 2012
+   end: 2016
+   employer: Covestor
+   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+ - title: Associate Manager
+   start: 2005
+   end: 2012
+   employer: Accenture
+   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
 
 #Education is required
 education:
- - level: Masters
-   date: 2020
-   subject: Information Technology
-   school: Virginia Tech
+ - level: Bachelor of Science (B.Sc.)
+   date: 2003
+   subject: Artificial Intelligence and Computer Science
+   school: University of Birmingham
 
 #This section is optional (as is the image link below)
 # coursera:

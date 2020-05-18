@@ -71,11 +71,6 @@ education:
    subject: Information Technology
    school: Virginia Tech
 
-#Fun Experiences are optional
-experiences: |
-   <strong>Disney</strong>: Disneyland Hong Kong Marvel Character Performer
-   
-
 #This section is optional (as is the image link below)
 # coursera:
  #  profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
@@ -123,6 +118,10 @@ intro: |
   I am a graduate of Virginia Tech's Master of Information Technology program excited about starting a career in the tech industry. I have primarily worked with Python and enjoy Machine Learning and IoT projects.  While completing my degree, I worked on Artificial Intelligence and computure vision projects.  Most recently,  I worked to create a traffic light detection algorithm using a Faster Inception V2 R-CNN model.  I have also engaged in Java development using the JVM to make simple interactive games like tetris and Adventure. <br/><br/>
   My two main focusses are Cybersecurity and Artificial Intelligence.  I want to eventually bridge the gap between those two interests as a career.  My other interest is harnessing databases to improve business intelligence with analytics.<br/><br/>
   I currently am a Graduate Assistant at Virginia Tech and will be a Distance Learning Instructor for a Healthcare Database Course being taught at Virginia Tech during Summer 2020.
+
+#Fun Experiences are optional
+experiences: |
+   <strong>Disney</strong>: Disneyland Hong Kong Marvel Character Performer
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |

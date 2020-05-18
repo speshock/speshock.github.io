@@ -53,7 +53,6 @@ roles:
    end: 2017
    employer: Hong Kong Disneyland
    description: Opening team for the Marvel Super Hero Summer Event. Portrayed Thor and Star-Lord in the interactive walkthrough attraction, Dimensions of Danger. Portrayed Captain America for guest meet and greets.
-   link: <iframe width="560" height="315" src="https://www.youtube.com/embed/e-c959ruUAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  - title: Outdoor Adventure Specialist
    start: 2016
    end: 2017
@@ -68,7 +67,7 @@ roles:
 #Education is required
 education:
  - level: Masters
-   date: 2020
+   date: MAY 2020
    subject: Information Technology
    school: Virginia Tech
 
